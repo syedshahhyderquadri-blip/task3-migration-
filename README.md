@@ -14,7 +14,7 @@ MENTOR:NEELA SANTOSH
 This task demonstrates the migration of two tables: `Students1` and `Applications1` from PostgreSQL to Oracle.  
 The data in both databases has been verified to ensure integrity.  
 
-### Steps Performed
+# Steps Performed
 1. Created `Students1` and `Applications1` tables in PostgreSQL.
 2. Inserted sample student and application data.
 3. Verified data in PostgreSQL.
@@ -36,10 +36,13 @@ outputs
 <img width="361" height="287" alt="Image" src="https://github.com/user-attachments/assets/61dd6224-1f8d-4d52-a103-36ae6b117314" />
 
 
+
 <img width="498" height="458" alt="Image" src="https://github.com/user-attachments/assets/e1ef47f4-a17d-4280-954d-f83d467c51f5" />
 
 
+
 <img width="593" height="370" alt="Image" src="https://github.com/user-attachments/assets/5d36aa2f-e1b5-4432-b9a4-430492859d8e" />
+
 
 
 <img width="359" height="284" alt="Image" src="https://github.com/user-attachments/assets/b780be42-9414-4490-98d3-b2ce6fb316be" />
