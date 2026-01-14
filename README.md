@@ -10,8 +10,6 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTOSH
 
-# Task 3: Database Migration
-
 ## Description
 This task demonstrates the migration of two tables: `Students1` and `Applications1` from PostgreSQL to Oracle.  
 The data in both databases has been verified to ensure integrity.  
